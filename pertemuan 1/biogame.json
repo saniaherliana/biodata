@@ -1,0 +1,108 @@
+[
+    {
+        "nama" : "charmander",
+        "tipe" : "api",
+        "kelemahan" : [
+            "air",
+            "tanah",
+            "bebatuan"
+        ],
+        "tinggi" : "0,6 m",
+        "berat" : "8,5 kg",
+        "kemampuan" : "kobar api",
+        "kategori" : "pokemon kadal",
+        "evolusi" : [
+            "charmander",
+            "charmeleon",
+            "charizard"
+        ]
+    },
+    {
+        "nama" : "rattata",
+        "tipe" : "normal",
+        "kelemahan" : "petarung",
+        "tinggi" : "0,3 m",
+        "berat" : "3,5 kg",
+        "kemampuan" : [
+            "kabur",
+            "nyali"
+        ],
+        "kategori" : "pokemon tikus",
+        "evolusi" : [
+            "rattata",
+            "raticate"
+        ]
+    },
+    {
+        "nama" : "pikachu",
+        "tipe" : "listrik",
+        "kelemahan" : "tanah",
+        "tinggi" : "0,4 m",
+        "berat" : "6,0 kg",
+        "kemampuan" : "listrik statis",
+        "kategori" : "pokemon tikus",
+        "evolusi" : [
+            "pikachu",
+            "raichu",
+            "raichu bentuk alola"
+        ]
+    },
+    {
+        "nama" : "clefairy",
+        "tipe" : "peri",
+        "kelemahan" : [
+            "racun",
+            "logam"
+        ],
+        "tinggi" : "0,6 m",
+        "berat" : "7,5 kg",
+        "kemampuan" : [
+            "tubuh mempesona",
+            "magic guard"
+        ],
+        "kategori" : "pokemon peri",
+        "evolusi" : [
+            "cleffa",
+            "clefairy",
+            "clefable"
+        ]
+    },
+    {
+        "nama" : "Sandslash",
+        "tipe" : "tanah",
+        "kelemahan" : [
+            "air",
+            "daun",
+            "es"
+        ],
+        "tinggi" : "1,0 m",
+        "berat" : "29,5 kg",
+        "kemampuan" : "persembunyian pasir",
+        "kategori" : "pokemon tikus",
+        "evolusi" : [
+            "sandshrew",
+            "sandslash"
+        ]
+    },
+    {
+        "nama" : "ninetales",
+        "tipe" : [
+            "es",
+            "peri"
+        ],
+        "kelemahan" : [
+            "api",
+            "racun",
+            "logam", 
+            "bebatuan"
+        ],
+        "tinggi" : "1,1 m",
+        "berat" : "19,9 kg",
+        "kemampuan" : "persemubunyian salju",
+        "kategori" : "pokemon rubah",
+        "evolusi" : [
+            "vulpix",
+            "ninetales"
+        ]
+    }
+]
